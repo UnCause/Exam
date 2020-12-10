@@ -1,0 +1,10 @@
+G:\Repositories\Exam\Exam\Exam\Task_2\bin\Debug\netcoreapp3.1\Task_2.exe
+G:\Repositories\Exam\Exam\Exam\Task_2\bin\Debug\netcoreapp3.1\Task_2.deps.json
+G:\Repositories\Exam\Exam\Exam\Task_2\bin\Debug\netcoreapp3.1\Task_2.runtimeconfig.json
+G:\Repositories\Exam\Exam\Exam\Task_2\bin\Debug\netcoreapp3.1\Task_2.runtimeconfig.dev.json
+G:\Repositories\Exam\Exam\Exam\Task_2\bin\Debug\netcoreapp3.1\Task_2.dll
+G:\Repositories\Exam\Exam\Exam\Task_2\bin\Debug\netcoreapp3.1\Task_2.pdb
+G:\Repositories\Exam\Exam\Exam\Task_2\obj\Debug\netcoreapp3.1\Task_2.AssemblyInfoInputs.cache
+G:\Repositories\Exam\Exam\Exam\Task_2\obj\Debug\netcoreapp3.1\Task_2.AssemblyInfo.cs
+G:\Repositories\Exam\Exam\Exam\Task_2\obj\Debug\netcoreapp3.1\Task_2.dll
+G:\Repositories\Exam\Exam\Exam\Task_2\obj\Debug\netcoreapp3.1\Task_2.pdb
